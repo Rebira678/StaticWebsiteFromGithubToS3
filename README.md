@@ -1,3 +1,4 @@
+
 ---
 
 ```markdown
@@ -122,8 +123,8 @@ jobs:
 ## 📬 Connect With Me
 
 - 🌐 [LinkedIn](https://linkedin.com/in/rebira)
-- 💻 [GitHub](https://github.com/rezaday)
-- ✉️ Email: rebira@example.com
+- 💻 [GitHub](https://github.com/rebira678)
+- ✉️ Email: rebikman9@gmail.com
 
 ---
 
