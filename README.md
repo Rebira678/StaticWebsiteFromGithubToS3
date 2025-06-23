@@ -1,5 +1,3 @@
-Absolutely, Rebira! Here's a professional and complete `README.md` that walks through **all steps of your RezaDay portfolio project**—from development to deployment. It's crafted to look like it came from a seasoned DevOps engineer:
-
 ---
 
 ```markdown
@@ -135,5 +133,3 @@ MIT License — feel free to use this template to build your own personal DevOps
 ```
 
 ---
-
-You can copy this into a file named `README.md` in the root of your project. Let me know if you want to include screenshots or GitHub Shields badges to really polish it up!
